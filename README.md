@@ -8,7 +8,7 @@
 
 ### My Goals
 <p>
-I wish to be profficient in the following languages before i complete my studies.
+I wish to be profficient in the following languages and frameworks before I have complete my studies.
 </p>
 
 <p>
