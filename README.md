@@ -21,18 +21,3 @@ Currently used the following languages and frameworks.
 <p>
     <a href="https://www.linkedin.com/in/andrewjameshay/"><img src="https://user-images.githubusercontent.com/88853764/172825414-37765e95-2c43-4609-823f-ba9860235905.svg" alt="linkedin" style="max-width: 100%;"></a>
 </p>
-
-| foo | bar |
-| --- | --- |
-| baz | bim |
-
-
-| Resource |	URL |
-| --- | --- |
-|Gantt Chart | |
-| Design Prototype | |	
-| Style Guide	| |
-| Kanban Board | |	
-| Repository | |
-| Hosted Demo	| |
-
