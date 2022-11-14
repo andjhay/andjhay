@@ -30,14 +30,9 @@ Currently used the following languages and frameworks.
 | Resource |	URL |
 | --- | --- |
 |Gantt Chart | |
-| --- | --- |
 | Design Prototype | |	
-| --- | --- |
 | Style Guide	| |
-| --- | --- |
 | Kanban Board | |	
-| --- | --- |
 | Repository | |
-| --- | --- |
 | Hosted Demo	| |
-| --- | --- |
+
