@@ -25,3 +25,19 @@ Currently used the following languages and frameworks.
 | foo | bar |
 | --- | --- |
 | baz | bim |
+
+
+| Resource |	URL |
+| --- | --- |
+|Gantt Chart | |
+| --- | --- |
+| Design Prototype | |	
+| --- | --- |
+| Style Guide	| |
+| --- | --- |
+| Kanban Board | |	
+| --- | --- |
+| Repository | |
+| --- | --- |
+| Hosted Demo	| |
+| --- | --- |
