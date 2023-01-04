@@ -3,12 +3,12 @@
 
 ## About Me
 <p>
-:computer: I’m currently learning Front-End development.
+:computer: Front-End development.
 </p>
 
-### Language Experience
+### Code Experience
 <p>
-Currently used the following languages and frameworks.
+Tthe following languages and frameworks.
 </p>
 
 <p>  
@@ -21,3 +21,5 @@ Currently used the following languages and frameworks.
 <p>
     <a href="https://www.linkedin.com/in/andrewjameshay/"><img src="https://user-images.githubusercontent.com/88853764/172825414-37765e95-2c43-4609-823f-ba9860235905.svg" alt="linkedin" style="max-width: 100%;"></a>
 </p>
+
+<p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
