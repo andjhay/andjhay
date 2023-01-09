@@ -24,7 +24,7 @@ Languages and frameworks.
 
 <p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andjhay)](https://github.com/anuraghazra/github-readme-stats)
+[![Andjhay GitHub stats](https://github-readme-stats.vercel.app/api?username=andjhay)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
