@@ -23,11 +23,3 @@ Languages and frameworks.
 </p>
 
 <p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
-
-[![Andjhay GitHub stats](https://github-readme-stats.vercel.app/api?username=andjhay)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/andjhay" alt="Profile views" />
-</div>
