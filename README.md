@@ -8,7 +8,7 @@
 
 ### Code Experience
 <p>
-Tthe following languages and frameworks.
+Languages and frameworks.
 </p>
 
 <p>  
