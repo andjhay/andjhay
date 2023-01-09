@@ -24,10 +24,10 @@ Languages and frameworks.
 
 <p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anclagen&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andjhay&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <div align="center">
-  <img src="https://gpvc.arturio.dev/anclagen" alt="Profile views" />
+  <img src="https://gpvc.arturio.dev/andjhay" alt="Profile views" />
 </div>
