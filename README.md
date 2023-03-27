@@ -19,3 +19,4 @@
 </p>
 
 <p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
+![andrewhayno](https://user-images.githubusercontent.com/88853764/228060474-9524f03a-e6e7-4884-bc13-37955789641c.svg)
