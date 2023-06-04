@@ -1,23 +1,26 @@
 
-# Welcome to my Github Profile
+# My Github Profile
 
-## About Me
+## About
 <p>
 :computer: Front-End development.
 </p>
+<p>
+Employee at Omega 365 
+</p>
 
-### Code Experience
+### Tech Stack
 <p>  
   <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825242-03a2fd5a-9f90-4752-b8fa-c0b13e3b80a9.svg" alt="html" style="max-width: 100%;"></a>  
   <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825319-d39a6a06-e54f-4cfd-b8d7-e1f9aa69cf4f.svg" alt="js" style="max-width: 100%;"></a>  
   <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825371-07c5f12c-c2a8-40a6-8eb2-f9527cc57cfb.svg" alt="css" style="max-width: 100%;"></a>  
 </p>
-
-### Framework Experience
 <p>  
   React
   <br/>
   Bootstrap
+  <br/>
+  Tailwind
 </p>
 
 ### Contact
