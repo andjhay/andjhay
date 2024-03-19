@@ -28,6 +28,3 @@ Employee at Omega 365
     <a href="https://www.linkedin.com/in/andrewjameshay/"><img src="https://user-images.githubusercontent.com/88853764/172825414-37765e95-2c43-4609-823f-ba9860235905.svg" alt="linkedin" style="max-width: 100%;"></a>
 </p>
 
-<p> or via my website <a href="https://andrewhay.no/" target="_blank" rel="noopener noreferrer">https://andrewhay.no/</a> </p>
-
-<img src="https://user-images.githubusercontent.com/88853764/228061920-2cff13c3-8f35-4ef5-a43d-fc20c4816f2c.svg" alt="qr to website" width="25%">
